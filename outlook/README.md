@@ -4,15 +4,18 @@
 
 <h2>Libraries Used</h2>
 
-<p><strong>Versão do JDK:</strong> Utilizei o JDK 17 para desenvolver este projeto.</p>
+<p><strong>They are all available in the requirements.txt archive.</strong></p>
 
-<p><strong>Bibliotecas Utilizadas:</strong></p>
 <ul>
-    <li><code>java.util.Scanner</code>: Utilizada para ler entradas do teclado.</li>
-    <li><code>java.util.Random</code>: Utilizada para sortear valores.</li>
-    <li><code>java.io.IOException</code>: Utilizada para lidar com erros de entrada e saída.</li>
+    <li><code>calendar</code>: Information about dates (Python-native).</li>
+    <li><code>locale</code>: Region settings - date formating (Python-native).</li>
+    <li><code>time</code>: Time settings - measurements and delays (Python-native).</li>
+    <li><code>datetime, timedelta, date</code>: Dealing with dates and time intervals (Python-native).</li>
+    <li><code>win32com.client</code>: Outlook access to automations.</li>
+    <li><code>pandas</code>: Data analysis.</li>
+    <li><code>holidays</code>: Worldwide holidays data library.</li>
 
-<h2>Requisitos do Projeto</h2>
+<h2>Initial settings</h2>
 
 <ul>
     <li><strong>Menu Interativo:</strong> Implementado com estruturas <code>switch</code> e <code>do-while</code>. Usuário pode escolher entre três modalidades de apostas ou sair do programa.</li>
