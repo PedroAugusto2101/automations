@@ -1,5 +1,6 @@
 <h1>Outlook Automation</h1>
 <p>Outlook automation of e-mail sending with different attachments and recipient list, considering the business days and with a customizable e-mail body.</p>
+<p><strong>Important to know! The pywin32 library is a windows tool, so it won't work if you use the Google Colab for instance, because is an IDE based on Linux.</strong></p>
 
 <h2>Libraries Used</h2>
 <p><strong>They are all available in the requirements.txt archive.</strong></p>
